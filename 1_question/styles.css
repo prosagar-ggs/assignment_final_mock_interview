@@ -1,0 +1,40 @@
+.header{
+    background-color: blue;
+    text-align: center;
+    height: 50px;
+    padding-top: 1px;
+    border: 3px solid #000036;
+    color: white;
+}
+.body{
+    display: flex;
+    height: 500px;
+    
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    width: 1100px;
+    background-color: blue;
+    color: white;
+    height: 40px;
+    padding-top: 15px;
+}
+.para{
+    padding: 40px;
+    font-size: 15px;
+}
+.left_body{
+    background-color: #000036;
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+}
+.footer{
+    background-color: blue;
+    text-align: center;
+    height: 50px;
+    padding-top: 1px;
+    color: white;
+
+}
